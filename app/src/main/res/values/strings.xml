@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tico&amp;Teco</string>
+
+    <string name="fab_Novo_Post">Novo Post</string>
+    <string name="txv_contato_codigo">Código</string>
+    
+    <string name="img_Avatar_user">Avatar do usuario</string>
+</resources>
